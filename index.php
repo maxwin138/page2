@@ -1449,7 +1449,7 @@
           <div class="col-md-4 mb-2 nopadding">
             <div class="slide mt-2">
               <amp-img
-                src="https://i.ibb.co/dmF86GV/Screenshot-1.png"
+                src="https://blogger.googleusercontent.com/img/a/AVvXsEjlgrcP21uDHeR8n4DyNmY7vhUV-zWSBAC-w-xnVsfU0cgfIZdDKtgPLrVEDy8-6A2q9WJPcriad5ZYen1F72W4UXj1DLKpJWvW_Ey6QpMmYyhyJnMdzQ26eBzLgUCrxZvkoRm04ZJzkCrH6fpQQ-WJGzGzNAk5hsBzI3oZQD0oOY6chAV5K1tdCH183g"
                 width="316px"
                 height="264px"
                 layout="responsive"
@@ -1470,7 +1470,7 @@
                 ><img
                   decoding="async"
                   alt="Maxwin138"
-                  src="https://i.ibb.co/dmF86GV/Screenshot-1.png"
+                  src="https://blogger.googleusercontent.com/img/a/AVvXsEjlgrcP21uDHeR8n4DyNmY7vhUV-zWSBAC-w-xnVsfU0cgfIZdDKtgPLrVEDy8-6A2q9WJPcriad5ZYen1F72W4UXj1DLKpJWvW_Ey6QpMmYyhyJnMdzQ26eBzLgUCrxZvkoRm04ZJzkCrH6fpQQ-WJGzGzNAk5hsBzI3oZQD0oOY6chAV5K1tdCH183g"
                   class="i-amphtml-fill-content i-amphtml-replaced-content"
               /></amp-img>
             </div>
