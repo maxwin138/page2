@@ -1479,7 +1479,7 @@
             <div class="info mt-2">
               <h3>Informasi</h3>
               <p>Nama : Maxwin138</p>
-              <p>Website URL : Maxwin138.com</p>
+              <p>Website URL : maxwin.blog</p>
               <p>Server : INFINI88</p>
               <p>Negara : INDONESIA</p>
               <p>Min Deposit : 20 K</p>
