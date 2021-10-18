@@ -669,6 +669,24 @@
       /*# sourceURL=/extensions/amp-loader/0.1/amp-loader.css*/
     </style>
     <meta charset="utf-8" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-0V411WWVMW"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-0V411WWVMW");
+    </script>
+    <meta
+      name="google-site-verification"
+      content="Mou5nPQkuk1kPTteyHmeeARRqBy5PoIfWeL0kW1tS0A"
+    />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
